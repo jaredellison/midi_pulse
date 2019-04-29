@@ -12,7 +12,7 @@ to change the amplitude of an output pulse roughly between 0V and 10V peak to pe
 A Texas Instruments DAC5578 is used to create the pulses, and an Arduino compatible Adafruit Metromini microcontroller was used 
 for the project. Please see the datasheets linked below.
 
-This source code and hardware described here comprise a functional a functional yet -very- barebones design. If you build something
+This source code and hardware described here comprise a functional yet -very- barebones design. If you build something
 based on this design, please reach out!
    
 ## Key Parts
